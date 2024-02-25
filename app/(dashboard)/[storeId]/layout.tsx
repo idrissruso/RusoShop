@@ -25,7 +25,7 @@ export default function DashboardLayout({
 
   return (
     <div>
-      <h1>this will be the navbar</h1>
+      <h1>this will be a navbar</h1>
       {children}
     </div>
   )
